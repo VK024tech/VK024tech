@@ -41,7 +41,7 @@
 | Frontend                      | Backend & DB              | Auth & Security   | DevOps & Tools         |
 |-------------------------------|---------------------------|-------------------|------------------------|
 | React, Next.js, Tailwind CSS  | Node.js, Express, Prisma  | JWT, Bcrypt       | Git, GitHub, Vercel    |
-| Redux, Recoil                 | PostgreSQL                | Zod               | VS Code, WSL, BASH     |
+| Redux, Recoil                 | PostgreSQL, MongoDb       | Zod               | VS Code, WSL, BASH     |
 
 ---
 
